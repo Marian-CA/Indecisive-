@@ -21,7 +21,6 @@ This project integrates the **Coin Flip API** from RapidAPI, demonstrating essen
 - **React:** Frontend library used for building the user interface.
 - **JavaScript (ES6+):** For logic and API calls.
 - **Coin Flip API:** External API to generate random coin flip outcomes.
-- **CSS:** For basic styling.
 
 ---
 
