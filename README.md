@@ -44,7 +44,7 @@ The **Flip a Coin App** provides a playful yet practical solution to relieve tha
    npm install
 
    3. **Configure API Key:**
-   Create a .env file in the project root:
+   Create a .env file in the project root go here for your api: https://rapidapi.com/carter383/api/coin-flip3/playground/apiendpoint_1db5d8ec-83e8-4ff1-92b0-7efd8d9edaa5
    REACT_APP_RAPIDAPI_KEY=your-api-key-here
 
    4. **Run the Application:**
