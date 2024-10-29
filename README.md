@@ -8,14 +8,6 @@ This project integrates the **Coin Flip API** from RapidAPI, demonstrating essen
 
 ---
 
-## **Problem It Solves**
-
-In today’s fast-paced world, people often experience **decision fatigue**—a mental state where making even simple decisions becomes difficult. This is especially common when individuals face too many choices or overthink every option. 
-
-The **Flip a Coin App** provides a playful yet practical solution to relieve that mental strain. When users are unsure about a decision—whether it’s choosing a restaurant, an activity, or any two competing options—this app helps them **let chance decide** and move forward without hesitation.
-
----
-
 ## **How It Works**
 
 - **Press the Flip Coin button:** This triggers the app to call the **Coin Flip API**.
