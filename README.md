@@ -57,8 +57,15 @@ State Management: Uses React's useState and useEffect for managing UI state.
 Error Handling: Displays a message if the API request fails.
 User-Friendly Interface: Clean and simple design with interactive feedback.
 
+## Chatgpt
+Chatgpt was used to help create this app. Mainly used for:
+- Modern gradient background gives the app a polished look
+- Buttons animations make the interaction feel smooth and responsive
+- Fade-in result text adds a playful touch after each coin flip
+- Coin flip animation includding css script 
+- UseEffect idea 
+
 ## Future Improvements
-Add animations to simulate the flipping coin visually.
-Maintain a history of previous flips to show recent outcomes.
-Mobile-friendly UI for a smoother user experience on all devices.
+- Maintain a history of previous flips to show recent outcomes.
+- Mobile-friendly UI for a smoother user experience on all devices.
 
